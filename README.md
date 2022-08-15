@@ -1,5 +1,4 @@
 # UFOs
-# ðŸ‘½ UFOs
 An exercise on JavaScript, Bootstrap, and UFOs
 
 # :one: Overview of the Project
@@ -29,7 +28,7 @@ After the values of the form are entered, a Javascript file called `app.js` cont
 
 The two main files that control the website are `index.html` and `app.js`.  These files will be explained in detail as shown below:
 
-## `index.htm` File.  [The complete code of the file can be found here](https://github.com/Peteresis/UFOs/blob/9ee7249a47ac2c387fc3490e130e4ecf8b66d866/index.html)
+## `index.htm` File.  [The complete code of the file can be found here]
 
 Following is the Storyboard of the page.
 ##### (Click on the image to zoom)
@@ -173,7 +172,7 @@ The code to create each part is shown below:
 <script src="static/js/app.js"></script>
 ```
 
-## `app.js` File.  [Click here for the complete code of this file](https://github.com/Peteresis/UFOs/blob/09fd29a955358c362800db133666d4b8bfe8cb0b/static/js/app.js) 
+## `app.js` File.  [Click here for the complete code of this file] 
 
 This file is the brain behind the dynamic table.  It has several parts, but the most important are the three functions that do the heavy lifting to modify the table dynamically based on the user inputs.
 
