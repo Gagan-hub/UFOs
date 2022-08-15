@@ -172,7 +172,7 @@ The code to create each part is shown below:
 <script src="static/js/app.js"></script>
 ```
 
-## `app.js` File.  [Click here for the complete code of this file] 
+## `app.js` File.  [Click here for the complete code of this file] (https://github.com/Gagan-hub/UFOs/blob/main/static/js/app.js)
 
 This file is the brain behind the dynamic table.  It has several parts, but the most important are the three functions that do the heavy lifting to modify the table dynamically based on the user inputs.
 
