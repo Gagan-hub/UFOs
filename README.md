@@ -28,7 +28,7 @@ After the values of the form are entered, a Javascript file called `app.js` cont
 
 The two main files that control the website are `index.html` and `app.js`.  These files will be explained in detail as shown below:
 
-## `index.htm` File.  [The complete code of the file can be found here]
+## `index.htm` File.  [The complete code of the file can be found here](https://github.com/Gagan-hub/UFOs/blob/main/index.html)
 
 Following is the Storyboard of the page.
 ##### (Click on the image to zoom)
